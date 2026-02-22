@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi 👋, I'm Sri Roja Arigela<br>A passionate full stack developer from India<br>🔭 I’m currently Student<br><br>🌱 I’m currently learning Java Full Stack<br><br>👯 I’m looking to collaborate on Artificial Intelligence and Data Science<br><br>🤝 I’m looking for help with Recipe Chatbot<br><br>👨‍💻 All of my projects are available at https://github.com/ARIGELASRIROJA<br><br>💬 Ask me about react<br><br>📫 How to reach me durgarigela3724@gmail.com
+<br><h1>Hi 👋, I'm Sri Roja Arigela</h1><br>A passionate full stack developer from India<br>🔭 I’m currently Student<br><br>🌱 I’m currently learning Java Full Stack<br><br>👯 I’m looking to collaborate on Artificial Intelligence and Data Science<br><br>🤝 I’m looking for help with Recipe Chatbot<br><br>👨‍💻 All of my projects are available at https://github.com/ARIGELASRIROJA<br><br>💬 Ask me about react<br><br>📫 How to reach me durgarigela3724@gmail.com
 
 
 ## 🌐 Socials:
